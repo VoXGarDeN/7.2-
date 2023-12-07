@@ -1,0 +1,7 @@
+H:\УП\р 3.2\р 3.2\bin\Debug\р 3.2.exe.config
+H:\УП\р 3.2\р 3.2\bin\Debug\р 3.2.exe
+H:\УП\р 3.2\р 3.2\bin\Debug\р 3.2.pdb
+H:\УП\р 3.2\р 3.2\obj\Debug\р 3.2.csprojAssemblyReference.cache
+H:\УП\р 3.2\р 3.2\obj\Debug\р 3.2.csproj.CoreCompileInputs.cache
+H:\УП\р 3.2\р 3.2\obj\Debug\р 3.2.exe
+H:\УП\р 3.2\р 3.2\obj\Debug\р 3.2.pdb
